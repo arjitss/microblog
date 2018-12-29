@@ -101,7 +101,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-flaskenv/
+flaskEnv/
 
 # Spyder project settings
 .spyderproject
@@ -120,3 +120,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+arjit.txt
